@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.dc70ce48.js",
+    "static/media/sofa.jpg": "/static/media/sofa.817775579223e629c6e6.jpg",
+    "static/media/monitor.jpg": "/static/media/monitor.1abca11c8f243898d535.jpg",
+    "static/media/submarine.jpg": "/static/media/submarine.4a7ebf2df9a528513bfe.jpg",
+    "static/media/monkey.jpg": "/static/media/monkey.1dc46267da9fd0016875.jpg",
+    "index.html": "/index.html",
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.dc70ce48.js.map": "/static/js/main.dc70ce48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.dc70ce48.js"
+  ]
+}
