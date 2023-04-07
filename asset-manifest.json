@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2cab247.css",
-    "main.js": "/static/js/main.dc70ce48.js",
-    "static/media/sofa.jpg": "/static/media/sofa.817775579223e629c6e6.jpg",
-    "static/media/monitor.jpg": "/static/media/monitor.1abca11c8f243898d535.jpg",
-    "static/media/submarine.jpg": "/static/media/submarine.4a7ebf2df9a528513bfe.jpg",
-    "static/media/monkey.jpg": "/static/media/monkey.1dc46267da9fd0016875.jpg",
-    "index.html": "/index.html",
-    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
-    "main.dc70ce48.js.map": "/static/js/main.dc70ce48.js.map"
+    "main.css": "/shopping-cart-cra/static/css/main.c2cab247.css",
+    "main.js": "/shopping-cart-cra/static/js/main.6398b2e3.js",
+    "static/media/sofa.jpg": "/shopping-cart-cra/static/media/sofa.817775579223e629c6e6.jpg",
+    "static/media/monitor.jpg": "/shopping-cart-cra/static/media/monitor.1abca11c8f243898d535.jpg",
+    "static/media/submarine.jpg": "/shopping-cart-cra/static/media/submarine.4a7ebf2df9a528513bfe.jpg",
+    "static/media/monkey.jpg": "/shopping-cart-cra/static/media/monkey.1dc46267da9fd0016875.jpg",
+    "index.html": "/shopping-cart-cra/index.html",
+    "main.c2cab247.css.map": "/shopping-cart-cra/static/css/main.c2cab247.css.map",
+    "main.6398b2e3.js.map": "/shopping-cart-cra/static/js/main.6398b2e3.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.dc70ce48.js"
+    "static/js/main.6398b2e3.js"
   ]
 }
