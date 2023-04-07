@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Submarine", "price": 1000000.99, "imgUrl": "/img/submarine.jpg" },
+  { "id": 2, "name": "Monkey", "price": 230.99, "imgUrl": "/img/monkey.jpg" },
+  { "id": 3, "name": "Sofa", "price": 100.99, "imgUrl": "/img/sofa.jpg" },
+  { "id": 4, "name": "Monitor", "price": 85.99, "imgUrl": "/img/monitor.jpg" }
+]
